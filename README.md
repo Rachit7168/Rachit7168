@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rachit7168
 - 👀 I’m interested in Gaming , Anime and Coding
-- 🌱 I’m currently learning One Peice
+- 🌱 I’m currently learning Python Development.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me rachitmakwana15@gmail.com
 - 😄 Pronouns: He/Him
