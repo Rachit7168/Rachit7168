@@ -1,7 +1,62 @@
-- 👋 Hi, I’m Rachit Makwana (@Rachit7168)
-- 👨‍💻 I’m interested in Software Development, Python, and Problem Solving
-- 🌱 I’m currently learning Data Structures & Algorithms and Backend Development with Python
-- 🤝 I’m open to collaborating on Open Source and Real-World Projects
-- 📫 Reach me at: rachitmakwana15@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I relax by watching anime and exploring new tech in my free time
+# 👋 Hi, I'm Rachit Makwana
+
+💻 Backend Developer passionate about building scalable systems  
+🐍 Strong in Python, OOP, APIs, and Data Processing  
+📊 Currently working on Reconciliation & Reporting Systems (Odoo + Pandas + Excel Automation)  
+🎯 Targeting SDE Internship / SDE-1 Roles  
+
+---
+
+## 🧠 What I’m Currently Focused On
+- Data Structures & Algorithms (Problem Solving Daily)
+- Backend Architecture & API Design
+- Writing Production-Ready Python Code
+- Optimizing Large Data Processing Pipelines
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+- Python
+- SQL
+- JavaScript (Basic)
+
+**Backend & Tools**
+- Odoo RPC
+- Pandas
+- XlsxWriter
+- Celery
+- REST APIs
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 E-Commerce Reconciliation System
+- Fetches order, payment & refund data from Odoo
+- Detects revenue leakage & hidden charges (GST, platform fees)
+- Generates structured Excel reports with charts
+- Uploads reports to S3
+
+### 📈 Automated Excel Reporting Engine
+- Order-level & SKU-level profit reports
+- Conditional formatting based on profit
+- Marketplace-specific reconciliation logic
+
+### 🌍 Portfolio Website
+- Responsive design
+- Clean UI
+- Hosted project demo
+
+---
+
+## 📫 Connect With Me
+📧 Email: rachitmakwana15@gmail.com  
+💼 LinkedIn: (Add your LinkedIn link here)  
+🐙 GitHub: github.com/Rachit7168  
+
+---
+
+⚡ Fun Fact: I relax by watching anime & building side projects.
