@@ -54,7 +54,7 @@
 
 ## 📫 Connect With Me
 📧 Email: rachitmakwana15@gmail.com  
-💼 LinkedIn: (Add your LinkedIn link here)  
+💼 LinkedIn: https://www.linkedin.com/in/rachit-makwana-py-dev/
 🐙 GitHub: github.com/Rachit7168  
 
 ---
