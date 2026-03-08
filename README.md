@@ -1,62 +1,30 @@
-# 👋 Hi, I'm Rachit Makwana
+# Hi 👋 I'm Rachit Makwana
 
-💻 Backend Developer passionate about building scalable systems  
-🐍 Strong in Python, OOP, APIs, and Data Processing  
-📊 Currently working on Reconciliation & Reporting Systems (Odoo + Pandas + Excel Automation)  
-🎯 Targeting SDE Internship / SDE-1 Roles  
-
----
-
-## 🧠 What I’m Currently Focused On
-- Data Structures & Algorithms (Problem Solving Daily)
-- Backend Architecture & API Design
-- Writing Production-Ready Python Code
-- Optimizing Large Data Processing Pipelines
+💻 Software Developer  
+🚀 Building projects in Python & Web Development  
+📍 India  
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
-**Languages**
-- Python
-- SQL
-- JavaScript (Basic)
-
-**Backend & Tools**
-- Odoo RPC
-- Pandas
-- XlsxWriter
-- Celery
-- REST APIs
-- Git & GitHub
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Projects
 
-### 📊 E-Commerce Reconciliation System
-- Fetches order, payment & refund data from Odoo
-- Detects revenue leakage & hidden charges (GST, platform fees)
-- Generates structured Excel reports with charts
-- Uploads reports to S3
-
-### 📈 Automated Excel Reporting Engine
-- Order-level & SKU-level profit reports
-- Conditional formatting based on profit
-- Marketplace-specific reconciliation logic
-
-### 🌍 Portfolio Website
-- Responsive design
-- Clean UI
-- Hosted project demo
+- 🧠 **Draco Manga Website**
+- 🎭 **Avatar Portfolio**
+- 📊 **EliteSecom Reporting System**
 
 ---
 
-## 📫 Connect With Me
-📧 Email: rachitmakwana15@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/rachit-makwana-py-dev/
-🐙 GitHub: github.com/Rachit7168  
+## 📫 Contact
 
----
-
-⚡ Fun Fact: I relax by watching anime & building side projects.
+- LinkedIn
+- GitHub
+- Email
