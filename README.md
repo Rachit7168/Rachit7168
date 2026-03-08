@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rachit Makwana
 
 💻 Software Developer  
-🚀 Building projects in Python & Web Development  
+🚀 Building projects with Python, Backend Systems, and Web Technologies  
 📍 India  
 
 ---
@@ -15,16 +15,4 @@
 
 ---
 
-## 📌 Projects
-
-- 🧠 **Draco Manga Website**
-- 🎭 **Avatar Portfolio**
-- 📊 **EliteSecom Reporting System**
-
----
-
-## 📫 Contact
-
-- LinkedIn
-- GitHub
-- Email
+I enjoy building practical systems, contributing to open source, fixing what’s broken, and continuously learning through real-world projects.
