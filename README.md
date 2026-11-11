@@ -1,11 +1,15 @@
 <p align="center">
   <a href="https://rachit7168.github.io/Rachit-Makwana/">
-    <img src="assets/portfolio-banner.png" alt="Rachit Makwana — Builder · Products & Platforms · Visit portfolio" width="100%" />
+    <img src="assets/portfolio-banner.png" alt="Rachit Makwana — Systems & Code · Portfolio Preview" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://rachit7168.github.io/Rachit-Makwana/"><strong>Portfolio →</strong></a>
+  ·
+  <a href="https://rachit7168.github.io/Rachit-Makwana/events.html">Events & Talks</a>
+  ·
+  <a href="https://rachit7168.github.io/Rachit-Makwana/opensource.html">Open Source</a>
   ·
   <a href="https://rachit7168.github.io/Rachit-Makwana/blog/how-i-got-into-gsoc.html">How I Got Into GSoC</a>
   ·
